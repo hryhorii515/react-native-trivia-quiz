@@ -1,1 +1,1 @@
-# react-native-trivia-quiz
+# React Native Trivia Quiz
